@@ -13,3 +13,6 @@ console.log('With the 20% included gratuity the amount for your tip is ' + '$' +
 console.log('Which brings your total amount due to ' + '$' + bill_and_tip)
 
 alert('Which brings your total amount due to ' + '$' + bill_and_tip)
+
+
+//I was struggling for a bit due to issues with the order of things. I kept getting the error of "___" is not a variable. Pulling them out really helped me. Not sure if that is the proper way to do it.
